@@ -72,6 +72,7 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 1. AmazonEC2ContainerRegistryFullAccess
 
 2. AmazonEC2FullAccess
+3. Amazons3FullAccess
 
 ##  3. Create ECR repo to store/save docker image
 615237235943.dkr.ecr.us-east-1.amazonaws.com/visa
